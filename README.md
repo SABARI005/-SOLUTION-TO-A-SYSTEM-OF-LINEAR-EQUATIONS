@@ -24,8 +24,10 @@ B=np.array([-9,4,-1])
 result=np.linalg.solve(A,B)
 print(result)
 ```
-## Output:
-![Alttext](./simage.png)
+##  Output:
+![209549050-9ff27675-2173-4d3d-84fd-1308b90d3375](https://user-images.githubusercontent.com/118660461/215513375-90ab5947-41a4-4355-a6be-1613da091107.png)
+ Output:
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
